@@ -76,7 +76,7 @@ links: [sujay.pro, jee.money, jeescan.org]
 <div align="center">
 
 <a href="https://github.com/SujayPro/JEE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujayPro&repo=JEE&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117" alt="JEE" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujayPro&repo=JEE&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117&v=2" alt="JEE" />
 </a>
 <a href="https://github.com/SujayPro/JEE-Wallet-Chrome">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujayPro&repo=JEE-Wallet-Chrome&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117" alt="JEE Wallet" />
