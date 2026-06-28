@@ -27,7 +27,7 @@
 
 ---
 
-### 👋 whoami
+### 👋 who am i
 
 ```yaml
 name: Sujay
@@ -42,7 +42,7 @@ links: [sujay.pro, jee.money, jeescan.org]
 **⛓️ what is JEE?**
 > **[JEE](https://github.com/SujayPro/JEE)** is a **zero-fee Layer-1** built on **Cosmos SDK + CometBFT** (~1s blocks). No gas — accounts spend **Mana**, a per-block regenerating budget, so everyday transfers stay **free** while the network stays fair. Fixed supply: **247M JEE**.
 
-**🚀 building** &nbsp;·&nbsp; **[JEE](https://github.com/SujayPro/JEE)** (chain core) &nbsp;·&nbsp; **[JEE Wallet](https://github.com/SujayPro/JEE-Wallet-Chrome)** (extension) &nbsp;·&nbsp; explorers &nbsp;·&nbsp; backend services
+**🚀 building** &nbsp;·&nbsp; **[JEE](https://github.com/SujayPro/JEE)** (chain core) &nbsp;·&nbsp; **[JEE Wallet](https://github.com/SujayPro/JEE-Wallet)** (extension) &nbsp;·&nbsp; explorers &nbsp;·&nbsp; backend services
 
 ---
 
@@ -78,8 +78,8 @@ links: [sujay.pro, jee.money, jeescan.org]
 <a href="https://github.com/SujayPro/JEE">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujayPro&repo=JEE&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117&v=2" alt="JEE" />
 </a>
-<a href="https://github.com/SujayPro/JEE-Wallet-Chrome">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujayPro&repo=JEE-Wallet-Chrome&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117" alt="JEE Wallet" />
+<a href="https://github.com/SujayPro/JEE-Wallet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujayPro&repo=JEE-Wallet&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117" alt="JEE Wallet" />
 </a>
 
 </div>
@@ -114,8 +114,8 @@ links: [sujay.pro, jee.money, jeescan.org]
 
 <br/><br/>
 
-<a href="https://star-history.com/#SujayPro/JEE&SujayPro/JEE-Wallet-Chrome&Date">
-  <img src="https://api.star-history.com/svg?repos=SujayPro/JEE,SujayPro/JEE-Wallet-Chrome&type=Date&theme=dark" alt="Star history chart" width="100%"/>
+<a href="https://star-history.com/#SujayPro/JEE&SujayPro/JEE-Wallet&Date">
+  <img src="https://api.star-history.com/svg?repos=SujayPro/JEE,SujayPro/JEE-Wallet&type=Date&theme=dark" alt="Star history chart" width="100%"/>
 </a>
 
 </div>
