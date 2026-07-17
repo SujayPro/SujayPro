@@ -76,12 +76,13 @@ links: [sujay.pro, jee.money, jeescan.org]
 <div align="center">
 
 <a href="https://github.com/SujayPro/JEE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujayPro&repo=JEE&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117&v=2" alt="JEE" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SujayPro&repo=JEE&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117&v=2" alt="JEE" />
 </a>
 <a href="https://github.com/SujayPro/JEE-Wallet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujayPro&repo=JEE-Wallet&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117" alt="JEE Wallet" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=SujayPro&repo=JEE-Wallet&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117" alt="JEE Wallet" />
 </a>
 
+</div>
 </div>
 
 ---
@@ -94,13 +95,13 @@ links: [sujay.pro, jee.money, jeescan.org]
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SujayPro&show_icons=true&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117&text_color=c9d1d9" alt="Stats"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=SujayPro&show_icons=true&theme=react&hide_border=true&border_radius=12&title_color=8892FF&icon_color=5064FB&bg_color=0d1117&text_color=c9d1d9" alt="Stats"/>
 &nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SujayPro&theme=react&hide_border=true&border_radius=12&ring=5064FB&fire=8892FF&currStreakLabel=8892FF&sideLabels=8892FF&dates=c9d1d9&background=0d1117" alt="Streak"/>
+<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=SujayPro&theme=react&hide_border=true&border_radius=12&ring=5064FB&fire=8892FF&currStreakLabel=8892FF&sideLabels=8892FF&dates=c9d1d9&background=0d1117" alt="Streak"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujayPro&layout=compact&theme=react&hide_border=true&border_radius=12&title_color=8892FF&bg_color=0d1117&text_color=c9d1d9&langs_count=6" alt="Top languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SujayPro&layout=compact&theme=react&hide_border=true&border_radius=12&title_color=8892FF&bg_color=0d1117&text_color=c9d1d9&langs_count=6" alt="Top languages"/>
 
 </div>
 
@@ -113,10 +114,6 @@ links: [sujay.pro, jee.money, jeescan.org]
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SujayPro&theme=github_dark" alt="Profile summary" width="100%"/>
 
 <br/><br/>
-
-<a href="https://star-history.com/#SujayPro/JEE&SujayPro/JEE-Wallet&Date">
-  <img src="https://api.star-history.com/svg?repos=SujayPro/JEE,SujayPro/JEE-Wallet&type=Date&theme=dark" alt="Star history chart" width="100%"/>
-</a>
 
 </div>
 
