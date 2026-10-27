@@ -1,7 +1,7 @@
 # Hi, I'm Sujay 👋
 
-Founder at [JEE Money](https://jee.money) — building a zero-fee Layer-1 blockchain.
-Learning in public, mostly with Go, Python and TypeScript.
+[JEE Money](https://jee.money) — was building a zero-fee Layer-1 blockchain.
+Learning in public, mostly with C, Python and Go.
 
 ### What I'm building
 
